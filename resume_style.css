@@ -1,0 +1,29 @@
+/* Stylesheet for my Comp20 Resume */
+
+body	{
+	background-color: #e6e6fa;
+	font-family: Verdana;
+	padding: 25px;
+	
+}
+
+h1	{
+	color: LightSeaGreen;
+	text-align: center;
+	padding: 12px;
+	
+}
+
+hr	{
+	color: #20b2aa;
+}
+
+ul	{
+	list-style-type: circle;
+}
+
+.time	{
+	font-style: italic;
+	color: #4d4d4d;
+}
+

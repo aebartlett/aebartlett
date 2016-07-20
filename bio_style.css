@@ -1,0 +1,24 @@
+/* Stylesheet for my Comp20 Bio */
+
+body	{
+	background-color: #e6e6fa;
+	font-family: Verdana;
+	padding: 25px;
+}
+
+h1	{
+	text-align: center;
+	padding: 8px;
+}
+
+h2	{
+	text-align: center;
+	padding: 8px;
+	font-style: italic;
+	color: #4d4d4d;
+}
+
+.place	{
+	color: #6495ed;
+}
+
